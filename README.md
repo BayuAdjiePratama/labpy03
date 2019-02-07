@@ -29,7 +29,7 @@
 	(Jika b>a dan a>c)
 	
 6. print ('ingin coba lagi? (ya/tidak)')
-	(Menampilkan pilihan "ya" untuk melanjutkan atau "tidak" untuk mengakhiri
+	(Menampilkan pilihan "ya" untuk melanjutkan atau "tidak" untuk mengakhiri)
 	
 7. if x=='ya':
 	(Inputkan "ya" bila ingin melanjutkan)
