@@ -1,4 +1,4 @@
-#labpy01
+#labpy03
 
 #Praktikum 3
 
@@ -42,4 +42,4 @@
 ![foto3](https://raw.githubusercontent.com/BayuAdjiePratama/labpy03/master/Run%20Program%201.png)
 1. Run (F5)
 2. Laba Bulan Ke-1 sampai Laba Bulan ke-8 seluruhnya di tambah (+)
-3. Hasil output menampilkan hasil pertambahan (+) dari Laba ke-1 sampai Laba Ke-8# labpy03
+3. Hasil output menampilkan hasil pertambahan (+) dari Laba ke-1 sampai Laba Ke-8
