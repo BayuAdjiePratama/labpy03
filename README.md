@@ -1,5 +1,5 @@
 # labpy03
-#Praktikum 3
+# Praktikum 3
 
 # Latihan 1
 ![foto1](https://raw.githubusercontent.com/BayuAdjiePratama/labpy03/master/Flowchart%20Latihan%201.png)
